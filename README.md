@@ -23,12 +23,14 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ```asm
 
+<img width="1885" height="989" alt="Screenshot 2025-10-27 103355" src="https://github.com/user-attachments/assets/75cacae6-4447-410e-9667-2ed624ce56cd" />
 
 
 
 ```
 ## OUTPUT(Ascending order)
 
+<img width="1889" height="998" alt="Screenshot 2025-10-27 103421" src="https://github.com/user-attachments/assets/ce0f6a3f-e442-4c08-b07c-65a028257b3f" />
 
 
 ---
@@ -49,12 +51,14 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ```asm
 
+<img width="1920" height="1200" alt="Screenshot 2025-10-27 103742" src="https://github.com/user-attachments/assets/39b82876-9117-4bf4-a67c-46d062ee2fd5" />
 
 
 
 ```
 ## OUTPUT(Descending order)
 
+<img width="1920" height="1200" alt="Screenshot 2025-10-27 103803" src="https://github.com/user-attachments/assets/f4ee35fc-a212-4fac-9c83-d2531225fa0a" />
 
 
 ---
